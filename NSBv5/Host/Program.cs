@@ -18,12 +18,12 @@ namespace Host
         static void Main(string[] args)
         {
             var busConfiguration = new BusConfiguration();
-            busConfiguration.EndpointName("Timeout.Host");
+            busConfiguration.EndpointName("MultipleSagas.Host");
             busConfiguration.UseSerialization<JsonSerializer>();
             busConfiguration.EnableInstallers();
 
             var persistence = busConfiguration.UsePersistence<NHibernatePersistence>();
-            persistence.ConnectionString(@"Data Source=.;Initial Catalog=Timeout;Integrated Security=True");
+            persistence.ConnectionString(@"Data Source=.;Initial Catalog=MultipleSagas;Integrated Security=True");
 
 
             using (var bus = Bus.Create(busConfiguration).Start())

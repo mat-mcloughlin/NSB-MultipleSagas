@@ -8,7 +8,7 @@ namespace Dispatcher2
         static void Main(string[] args)
         {
             var busConfiguration = new BusConfiguration();
-            busConfiguration.EndpointName("Timeout.Dispatcher");
+            busConfiguration.EndpointName("MultipleSagas.Dispatcher");
             busConfiguration.UseSerialization<JsonSerializer>();
             busConfiguration.EnableInstallers();
             busConfiguration.UsePersistence<InMemoryPersistence>();
