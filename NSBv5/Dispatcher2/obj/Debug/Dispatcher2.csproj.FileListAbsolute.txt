@@ -1,0 +1,11 @@
+C:\git\NSB-timeout2\Dispatcher2\bin\Debug\Dispatcher2.exe.config
+C:\git\NSB-timeout2\Dispatcher2\bin\Debug\Dispatcher2.exe
+C:\git\NSB-timeout2\Dispatcher2\bin\Debug\Dispatcher2.pdb
+C:\git\NSB-timeout2\Dispatcher2\bin\Debug\NServiceBus.Core.dll
+C:\git\NSB-timeout2\Dispatcher2\bin\Debug\NServiceBus.Core.pdb
+C:\git\NSB-timeout2\Dispatcher2\bin\Debug\NServiceBus.Core.xml
+C:\git\NSB-timeout2\Dispatcher2\obj\Debug\Dispatcher2.csprojResolveAssemblyReference.cache
+C:\git\NSB-timeout2\Dispatcher2\obj\Debug\Dispatcher2.exe
+C:\git\NSB-timeout2\Dispatcher2\obj\Debug\Dispatcher2.pdb
+C:\Git\NSB-timeout2\Dispatcher2\bin\Debug\Messages.dll
+C:\Git\NSB-timeout2\Dispatcher2\bin\Debug\Messages.pdb

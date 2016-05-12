@@ -1,0 +1,8 @@
+C:\git\NSB-timeout2\Messages\bin\Debug\Messages.dll
+C:\git\NSB-timeout2\Messages\bin\Debug\Messages.pdb
+C:\git\NSB-timeout2\Messages\bin\Debug\NServiceBus.Core.dll
+C:\git\NSB-timeout2\Messages\bin\Debug\NServiceBus.Core.pdb
+C:\git\NSB-timeout2\Messages\bin\Debug\NServiceBus.Core.xml
+C:\git\NSB-timeout2\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+C:\git\NSB-timeout2\Messages\obj\Debug\Messages.dll
+C:\git\NSB-timeout2\Messages\obj\Debug\Messages.pdb
